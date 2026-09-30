@@ -123,6 +123,4 @@ The full assessed workflow also used `tidyverse`, `purrr` and `janitor`. Exact o
 
 ## Authorship and reuse
 
-Original analysis and report: **James McClatchie**. Repository documentation and the example runner were prepared later with AI assistance; they are distinguished from assessed coursework in the provenance notes.
-
-No reuse licence has been selected for the project code or report. Underlying data and third-party packages retain their own terms. The report contains its original bibliography.
+Original analysis and report: **James McClatchie**. The report contains its original bibliography.
